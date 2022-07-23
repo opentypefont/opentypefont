@@ -4,4 +4,4 @@
 
 - 🔭 I’m currently working on new project(private)
 - 🌱 I’m currently learning Dart and Flutter
-- ⚡ Fun fact: Laftel is using Django(Python). Don't hate Python if you are weeb.
+- ⚡ Fun fact: Laftel is using Django(Python). Please don't hate Python if you are weeb.
