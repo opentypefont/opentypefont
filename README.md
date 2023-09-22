@@ -11,7 +11,7 @@
 |my satisfaction.                             || Mike Dussault                                    |
 |Aperture Science                             || Dhabih Eng                                       |
 |We do what we must                           || Katie Engel                                      |
-|because we can.                              || Chet Faliszek                                    |                                     
+|because we can.                              || Chet Faliszek                                    |
 |For the good of all of us.                   || Adrian Finol                                     |
 |Except the ones who are dead.                || Bill Fletcher                                    |
 |                                             || Moby Francke                                     |
